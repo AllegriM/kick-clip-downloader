@@ -10,9 +10,8 @@ Una extensión de navegador simple para descargar clips de VODs y Streams en Viv
 
 ## 🎬 Demostración
 
-_(Te recomiendo 100% grabar un GIF corto o un video de 15 segundos mostrando cómo funciona la extensión y ponerlo aquí. Un buen README visual multiplica el interés)._
 
-`[IMAGEN/GIF DE LA EXTENSIÓN EN USO AQUÍ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/573d26cb-22fe-4d77-8c41-3f82af09fba3" />
 
 ---
 
@@ -94,3 +93,4 @@ Este proyecto es una extensión de Manifest V3 que funciona sin inyectar librer�
 Este es un proyecto no oficial y no está afiliado, asociado, autorizado, respaldado por, o de alguna manera conectado oficialmente con Kick.com.
 
 Esta herramienta se proporciona "tal cual", sin garantía de ningún tipo. Usala bajo tu propia responsabilidad. El contenido descargado pertenece a sus respectivos creadores de contenido.
+
